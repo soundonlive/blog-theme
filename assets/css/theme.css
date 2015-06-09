@@ -36,6 +36,14 @@
   margin-left: 10px;
 }
 
+.home-template .page-title span {
+  font-weight: 400;
+}
+.rocksalt {
+  font-family: 'Rock Salt' sans-serif;
+  font-size: .75em;
+}
+
 .post-head .post-meta,
 .post-head .post-meta a {
   color: rgba(255, 255, 255, .8);
